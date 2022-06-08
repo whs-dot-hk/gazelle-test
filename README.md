@@ -1,0 +1,3 @@
+```sh
+bazelisk run //:gazelle
+```
